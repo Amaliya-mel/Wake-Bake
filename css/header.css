@@ -21,6 +21,10 @@
     width: 100%;
 }
 
+.nav {
+    color: #fff;
+}
+
 .nav__list {
     display: flex;
     gap: 4vh 40px;
